@@ -1,3 +1,7 @@
+# Live Preview can be seen here.
+[View](https://lambo-view.netlify.app/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
