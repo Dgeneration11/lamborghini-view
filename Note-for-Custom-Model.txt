@@ -1,0 +1,8 @@
+Note -
+
+How to prepare a model for the web:
+  - Models should not be larger than 1-2mb, preferrably lower than 200kb if you can get away with it
+  - Compress and rescale the textures, using sqoosh for instance, you don't often need that much resolution
+  - Compress it: npx gltf-pipeline -i model.gltf -o model.glb --draco.compressionLevel=10
+  - With r3f you do not need to worry about draco wasm binaries, etc, everything is taken care of by useGLTF
+  
