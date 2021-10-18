@@ -1,5 +1,5 @@
 # Live Preview can be seen here.
-[View](https://lambo-view.netlify.app/)
+--[Preview]--(https://lambo-view.netlify.app/)
 
 
 # Getting Started with Create React App
